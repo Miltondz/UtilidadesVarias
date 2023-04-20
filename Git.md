@@ -6,9 +6,12 @@
 
 * Crea repositorio en github, 
 * Copia la direccion del repositorio 
+ 
+![alt text](https://imgsh.net/i/PoHoI8p.png) 
 
 * Ubicate en la carpeta local 
 * Si estas en windows explorer puedes escribir CMD en la barra de direccion del explorer 
+![alt text](https://imgsh.net/i/hNVYsY1.png)
 * Asegurate que estas en la carpeta correcta (dir)
 
 ### Initialize the local directory as a Git repository. ###
@@ -28,6 +31,7 @@ git commit -m "First commit"
 ````
 
 ### Adding a local repository to GitHub using Git ###
+
 ### Sets the new remote ###
 ````
  git remote add origin <REMOTE_URL>
@@ -41,10 +45,7 @@ git remote -v
 git push origin main
 ````
 
-### Contribution guidelines ###
+### Verifica en github ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
 
